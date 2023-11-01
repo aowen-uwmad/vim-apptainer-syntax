@@ -5,15 +5,7 @@
 ### Makefile
 
 ```bash
-git clone https://github.com/rbberger/vim-singularity-syntax.git
-cd vim-singularity-syntax
+git clone https://github.com/aowen-uwmad/vim-apptainer-syntax.git
+cd vim-apptainer-syntax
 make install
-```
-
-### Vundle
-
-Add the following to your vimrc:
-
-```vim
-Bundle 'rbberger/vim-singularity-syntax'
 ```
