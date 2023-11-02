@@ -8,7 +8,7 @@ if exists("b:current_syntax")
 endif
 
 " Keywords
-syn keyword shellCommand exec export apt apt-get dpkg yum dnf touch chmod usermod groupmod cat echo git curl wget cd mv cp tar
+syn keyword shellCommand exec export apt apt-get dpkg yum dnf touch chmod usermod groupmod cat echo git curl wget cd mv cp tar mkdir
 
 " TODO add more common shell commands
 
